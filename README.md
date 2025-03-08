@@ -62,6 +62,6 @@ This project is open-source under the [MIT License](LICENSE).
 Feel free to fork this repo, create a new branch, and submit a PR! 😊
 
 ## 📞 Contact
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+📧 Email: [riteshravi1002@gmail.com](mailto:your.email@example.com)  
 🐙 GitHub: [riteshravi1002](https://github.com/riteshravi1002)
 
